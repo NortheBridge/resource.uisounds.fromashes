@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="resource.uisounds.fromashes" version="3.0.00" name="Arctic Zephyr: From Ashes UI Sounds" provider-name="NortheBridge">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+	<import addon="skin.arctic.zephyr.northebridge" version="3.0.00"
+  </requires>
+  <extension point="kodi.resource.uisounds"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Arctic Zephyr: From Ashes UI Sounds</summary>
+    <description lang="en">Arctic Zephyr: From Ashes UI Sounds</description>
+    <platform>all</platform>
+  </extension>
+</addon>
