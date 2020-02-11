@@ -1,5 +1,11 @@
-Arctic Zephyr: From Ashes Audio Suite
-Curated by: Guardian Hope/NortheBridge
+"Generations" Audio Suite
+Curated by: Guardian Hope / NortheBridge Software Foundation
+
+v.20.0.00 (Released February 17, 2020)
+- "Generations Update"
+- Published Name Changed to "Generations UI Audio Suite"
+- Prepares Audio Suite for Use with "Generations" theme for Kodi
+- Prepares Audio Suite for Use with "Arctic Zephyr: Generations" theme for Kodi
 
 v.3.0.01 (Released November 17, 2015)
 - "November Update" 
