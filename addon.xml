@@ -5,8 +5,8 @@
   </requires>
   <extension point="kodi.resource.uisounds"/>
   <extension point="kodi.addon.metadata">
-    <summary lang="en">Polaris & Arctic Zephyr: Generations UI Audio Suite</summary>
-    <description lang="en">Polaris & Arctic Zephyr: Generations UI Audio Suite</description>
+    <summary lang="en">Polaris and Arctic Zephyr: Generations UI Audio Suite</summary>
+    <description lang="en">Polaris and Arctic Zephyr: Generations UI Audio Suite</description>
     <platform>all</platform>
   </extension>
 </addon>
